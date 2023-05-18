@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MS in Computing (Track: Image Analysis)
+    - course: MS in Computing (Specialization - Image Analysis)
       institution: University of Utah
       year: 2022 - Present
     - course: BSc in Computer Science & Enginerring
