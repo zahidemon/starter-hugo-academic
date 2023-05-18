@@ -38,24 +38,24 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
+        - name: Python
           description: 100%
-          icon: chart-line
+          icon: python
+          icon_pack: fab
+        - name: Deep Learning
+          description: 100%
+          icon: brain-circuit
           icon_pack: fas
-        - name: Photography
+        - name: Football
           description: 10%
-          icon: camera-retro
+          icon: futbol
           icon_pack: fas
   - block: experience
     content:
@@ -69,27 +69,45 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Research Assistant
+          company: Scientific Computing and Imaging Institute at the University of Utah
+          company_url: 'https://www.sci.utah.edu/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Utah
+          date_start: '2022-08-17'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Deep learning based statistical shape modeling on different medical imaging datasets
+              * Contributing to existing statistical shape modeling-based projects. ([ShapeWorks](https://github.com/SCIInstitute/ShapeWorks))
+              # * Deploying
+        - title: Junior AI Developer
+          company: MyMedicalHUB
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Dhaka, Bangladesh
+          date_start: '2021-02-01'
+          date_end: '2022-07-31'
+          description: |2-
+              Responsibilities include:
+
+              * Applying state-of-the-art algorithms for various computer vision tasks
+                such as pose estimation, instance segmentation.
+              * Developing and monitoring a live AI based server that handles thousands
+                of API requests everyday.
+        - title: Research Intern
+          company: MyMedicalHUB
+          company_url: ''
+          company_logo: org-x
+          location: Dhaka, Bangladesh
+          date_start: '2020-06-01'
+          date_end: '2021-01-31'
+          description: |2-
+              Responsibilities include:
+
+              * Developed a deep learning method for detecting abnormalities from musculoskeletal images.
+              * Contributed to multiple human pose estimation based projects.
     design:
       columns: '2'
   - block: accomplishments
