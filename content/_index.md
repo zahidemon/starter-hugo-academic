@@ -52,7 +52,7 @@ sections:
         - name: Deep Learning
           description: 100%
           icon: brain-circuit
-          icon_pack: far
+          icon_pack: fas
         - name: Football
           description: 10%
           icon: futbol
@@ -72,7 +72,7 @@ sections:
         - title: Research Assistant
           company: Scientific Computing and Imaging Institute at the University of Utah
           company_url: 'https://www.sci.utah.edu/'
-          # company_logo: org-gc
+          company_logo: sci_logo
           location: Utah
           date_start: '2022-08-17'
           date_end: ''
@@ -84,7 +84,7 @@ sections:
         - title: Junior AI Developer
           company: MyMedicalHUB
           company_url: ''
-          company_logo: org-x
+          company_logo: mmh
           location: Dhaka, Bangladesh
           date_start: '2021-02-01'
           date_end: '2022-07-31'
@@ -98,7 +98,7 @@ sections:
         - title: Research Intern
           company: MyMedicalHUB
           company_url: ''
-          company_logo: org-x
+          company_logo: mmh
           location: Dhaka, Bangladesh
           date_start: '2020-06-01'
           date_end: '2021-01-31'
@@ -122,29 +122,28 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/54PZ2T46XT55
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2020-05-25'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Deep Learning Specialization
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://coursera.org/share/620eeb8090c18b58abdb0cb435645277
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2020-09-15'
+          description: 'Learned applying different queries to your dataset to extract useful Information and how to visualize this information using matplotlib'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Data Analysis with PySpark
+        - certificate_url: https://coursera.org/share/690b79520e79fab32dde688fde31d9ec
+          date_end: ''
+          date_start: '2020-09-27'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: 'Mathematics for Machine Learning - Multivariate Calculus'
           url: ''
     design:
       columns: '2'
@@ -256,35 +255,35 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Feel free to contact me if it's for just chatting.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      email: zahid.aziz@sci.utah.edu
+      # phone: 888 888 88 88
+      # appointment_url: 'https://calendly.com'
+      # address:
+      #   street: 450 Serra Mall
+      #   city: Stanford
+      #   region: CA
+      #   postcode: '94305'
+      #   country: United States
+      #   country_code: US
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
+          link: 'https://twitter.com/zahid_aziz_emon'
+        - icon: linkedin
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: LinkedIn
+          link: 'https://www.linkedin.com/in/abu-zahid-bin-aziz-750908159/'
+        # - icon: video
+        #   icon_pack: fas
+        #   name: Zoom Me
+        #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -294,7 +293,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---
