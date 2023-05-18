@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Zahid's # Website name
+title: Zahid Aziz# Website name
 baseURL: 'https://abuzahid.netlify.app/' # Website URL
 
 ############################
