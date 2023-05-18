@@ -1,13 +1,14 @@
 ---
-title: "An example journal article"
+title: "Identification of RNA pseudouridine sites using deep learning approaches"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Md. Al Mehedi Hasan
+- Jungpil Shin
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2021-02-23T00:00:00Z"
+doi: "https://doi.org/10.1371/journal.pone.0247511"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,27 +20,27 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Plos one 16.2 (2021): e0247511."
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Pseudouridine(Ψ) is widely popular among various RNA modifications which have been confirmed to occur in rRNA, mRNA, tRNA, and nuclear/nucleolar RNA. Hence, identifying them has vital significance in academic research, drug development and gene therapies. Several laboratory techniques for Ψ identification have been introduced over the years. Although these techniques produce satisfactory results, they are costly, time-consuming and requires skilled experience. As the lengths of RNA sequences are getting longer day by day, an efficient method for identifying pseudouridine sites using computational approaches is very important. In this paper, we proposed a multi-channel convolution neural network using binary encoding. We employed k-fold cross-validation and grid search to tune the hyperparameters. We evaluated its performance in the independent datasets and found promising results. The results proved that our method can be used to identify pseudouridine sites for associated purposes.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this paper, we proposed a multi-channel convolution neural network using binary encoding for identifying Pseudouridine(Ψ) sites from nucleotide sequences.
 
 tags:
-- Source Themes
-featured: false
+- Bioinformatics, Deep Learning
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
+url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0247511&type=printable
+url_code: 
+url_dataset: https://doi.org/10.1371/journal.pone.0247511.s001
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: https://docs.google.com/presentation/d/1PrRGSFcO8OM8XBOhGp52K2O8_cN9J3R5/edit?usp=sharing&ouid=112432914184650588612&rtpof=true&sd=true
 url_source: ''
 url_video: ''
 
