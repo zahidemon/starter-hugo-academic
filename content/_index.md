@@ -52,7 +52,7 @@ sections:
         - name: Deep Learning
           description: 100%
           icon: brain-circuit
-          icon_pack: fas
+          icon_pack: far
         - name: Football
           description: 10%
           icon: futbol
@@ -72,7 +72,7 @@ sections:
         - title: Research Assistant
           company: Scientific Computing and Imaging Institute at the University of Utah
           company_url: 'https://www.sci.utah.edu/'
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Utah
           date_start: '2022-08-17'
           date_end: ''
@@ -81,7 +81,6 @@ sections:
 
               * Deep learning based statistical shape modeling on different medical imaging datasets
               * Contributing to existing statistical shape modeling-based projects. ([ShapeWorks](https://github.com/SCIInstitute/ShapeWorks))
-              # * Deploying
         - title: Junior AI Developer
           company: MyMedicalHUB
           company_url: ''
