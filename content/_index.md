@@ -145,6 +145,14 @@ sections:
           organization_url: https://www.coursera.org
           title: 'Mathematics for Machine Learning - Multivariate Calculus'
           url: ''
+        - certificate_url: https://www.webofscience.com/wos/author/record/IAR-3914-2023
+          date_end: ''
+          date_start: '2023-05-10'
+          description: 'Worked as a reviewer at this Q1 journal (IF: 3.752)'
+          organization: PlosONE
+          organization_url: https://journals.plos.org/plosone/
+          title: 'Mathematics for Machine Learning - Multivariate Calculus'
+          url: 'https://www.webofscience.com/wos/author/record/IAR-3914-2023'
     design:
       columns: '2'
   - block: collection
