@@ -38,7 +38,7 @@ url_code: 'https://github.com/zahidemon/Musculoskeletal_Abnormality_Detection'
 url_dataset: 'https://stanfordmlgroup.github.io/competitions/mura/'
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1dmnbOiUP1pZJtBbXO5DYg8H1mrm6S7sD/edit?usp=sharing&ouid=112432914184650588612&rtpof=true&sd=true'
 url_source: ''
 url_video: ''
 
