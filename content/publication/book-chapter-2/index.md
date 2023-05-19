@@ -5,11 +5,11 @@ authors:
 - Abu Zahid Bin Aziz
 - Md Palash Uddin
 - Md Rahat Hossain
-date: "2021-05-18T00:00:00Z"
-doi: "https://doi.org/10.1007/978-981-16-0586-4_16"
+date: "2023-05-18T00:00:00Z"
+doi: "https://doi.org/10.1201/9781003256083-9/"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-05-18T00:00:00Z"
+publishDate: "2023-05-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
