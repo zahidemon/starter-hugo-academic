@@ -49,7 +49,7 @@ url_code: 'https://github.com/zahidemon/Pre-miRNA-Classification'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1VDDYx-KpWS71xvxNQMlGOuY7AtREBRCg/edit?usp=sharing&ouid=112432914184650588612&rtpof=true&sd=true'
 url_source: ''
 url_video: ''
 
