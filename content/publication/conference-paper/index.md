@@ -1,23 +1,23 @@
 ---
-title: 'An example conference paper'
+title: 'A Mixed Convolutional Neural Network for Pre-miRNA Classification'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Md Al Mehedi Hasan
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2019-12-26T00:00:00Z'
+doi: 'https://doi.org/10.1109/ICECTE48615.2019.9303537'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2019-12-26T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +26,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In 2019 3rd International Conference on Electrical, Computer & Telecommunication Engineering 
+publication_short: In ICECTE 2019
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The biogenesis of miRNA is divided into two types based upon their different pathways. One of them is known as the canonical pathway and the other one is the mirtron pathway. This pathway depends on splicing rather than any enzyme. As the mirtron pathway is recently discovered, their identification is quite challenging due to less number of annotations. So the identification of mirtrons can be quite productive in understanding their functionality. Several machine learning algorithms have been introduced over the years based mostly upon calculated feature selection which produced good classification performance. We have also seen that neural networks like convolutional neural networks (CNN) applied on modified nucleotide sequences have given better performance. In this paper, we introduced an improved mixed convolutional neural network with multiple different sized filters and max-pooling layers using binary "one-hot" encoding and padding. We also used k-fold cross-validation and grid search to choose the values of hyperparameters. As we know neural networks tend to extract features automatically, our model did the same in the convolution and max-pooling layers. We evaluated our model in an independent test set and the results were quite satisfactory. We think our model can be used to predict mirtrons from nucleotide sequences. Even though we tried our best to fine-tune our model, we believe there's still room for improvement as CNN involves tuning of a number of hyperparameters.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this paper, we introduced an improved mixed convolutional neural network with multiple different sized filters and max-pooling layers using binary "one-hot" encoding and padding for pre-miRNA classification
 
 tags: []
 
@@ -44,44 +44,44 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9303537'
+url_code: 'https://github.com/zahidemon/Pre-miRNA-Classification'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#   - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

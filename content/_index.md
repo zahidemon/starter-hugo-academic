@@ -54,7 +54,7 @@ sections:
           icon: brain-circuit
           icon_pack: fas
         - name: Football
-          description: 10%
+          description: 100%
           icon: futbol
           icon_pack: fas
   - block: experience
@@ -242,16 +242,16 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
