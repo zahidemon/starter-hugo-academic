@@ -51,11 +51,15 @@ sections:
           icon_pack: fab
         - name: Deep Learning
           description: 100%
-          icon: brain-circuit
+          icon: microchip-ai
           icon_pack: fas
-        - name: Football
-          description: 100%
-          icon: futbol
+        - name: Data Visualization
+          description: 80%
+          icon: magnifying-glass-chart
+          icon_pack: fas
+        - name: AWS
+          description: 80%
+          icon: cloud
           icon_pack: fas
   - block: experience
     content:
