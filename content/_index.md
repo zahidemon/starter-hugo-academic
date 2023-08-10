@@ -51,7 +51,7 @@ sections:
           icon_pack: fab
         - name: Deep Learning
           description: 100%
-          icon: microchip-ai
+          icon: brain
           icon_pack: fas
         - name: Data Visualization
           description: 80%
@@ -60,6 +60,10 @@ sections:
         - name: AWS
           description: 80%
           icon: cloud
+          icon_pack: fas
+        - name: Backend Development
+          description: 80%
+          icon: server
           icon_pack: fas
   - block: experience
     content:
