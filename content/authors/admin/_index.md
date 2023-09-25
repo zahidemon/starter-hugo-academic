@@ -68,7 +68,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Zahid_s_Resume.pdf
+    link: uploads/Abu-Zahid-resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'zahid.aziz@sci.utah.edu'
