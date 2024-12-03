@@ -33,9 +33,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Computing (Specialization - Image Analysis)
+      institution: University of Utah
+      year: 2024 - Present
     - course: MS in Computing (Specialization - Image Analysis)
       institution: University of Utah
-      year: 2022 - Present
+      year: 2022 - 2024
     - course: BSc in Computer Science & Enginerring
       institution: Rajshahi University of Engineering & Technology, Bangladesh
       year: 2016-2021
@@ -77,7 +80,7 @@ email: 'zahid.aziz@sci.utah.edu'
 highlight_name: true
 ---
 
-A Computer Science(CS) Master's student at the University of Utah with an interest in Data Analysis, Deep Learning and Web application development. I also work as a Research Assistant at the [Elhabian Lab of SCI, University of Utah](http://www.sci.utah.edu/~shireen/group.html) where I am working on different deep learning based statistical shape modeling for medical images. 
+A Computer Science(CS) PhD student at the University of Utah with an interest in Data Analysis, Deep Learning and Web application development. I also work as a Research Assistant at the [Elhabian Lab of SCI, University of Utah](http://www.sci.utah.edu/~shireen/group.html) where I am working on different deep learning based statistical shape modeling for medical images. 
 
 I completed my bachelor's from Rajshahi Univerisity of Engineering & Technology, Bangladesh where I started my research journey by working on various deep learning applications in bioinformatics-related projects. I also worked at a start-up after my undergraduate degree. There, I worked on a wide range of aspects, from implementing research methodologies to deploying ML/DL models to production for public usage.
 {style="text-align: justify;"}
